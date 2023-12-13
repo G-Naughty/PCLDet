@@ -3,6 +3,8 @@ This is Pytorch implementation for "PCLDet: Prototypical Contrastive Learning fo
 
 ## Overview
 The overall framework for PCLDet.
+![image](https://github.com/G-Naughty/PCLDet/assets/47738176/d6ff4688-58eb-4c3f-9268-46f1faf33654)
+
 
 ## Running the code
 1. Run tools/train.py to train a new model.
