@@ -8,9 +8,9 @@ The overall framework for PCLDet.
 ## Running the code
 1. Run tools/train.py to train a new model.
 2. Set "--config" and "--work-dir" as your path.
-For example:
- In tools/train.py, set "--config" as config/GGM/con_redet_re50_refpn_1x_fair1m.py
-All PCLDet config files are placed in the path "config/GGM" and start with "con_".
+For example:  
+ In tools/train.py, set "--config" as config/GGM/con_redet_re50_refpn_1x_fair1m.py  
+All PCLDet config files are placed in the path "config/GGM" and start with "con_".  
 3. Run tools/test.py to test the model.
 
 ## Citation
